@@ -4,7 +4,7 @@
       <div class="card">
     <div class="card-body">
       <h1 class="card-title gradient-text" align="center"><strong>Ecommerce</strong></h1>
-      <img src="./../../assets/ecommerce.svg" class="card-img" />
+      <img src="./../../assets/ecommerce.png" class="card-img" />
       <div class="card-text pt-4" align="center">
           <h5><strong>Tech Stack</strong></h5>
         <span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" class="label"/></span>

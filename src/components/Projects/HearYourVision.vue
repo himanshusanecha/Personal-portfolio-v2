@@ -6,7 +6,7 @@
         <h1 class="card-title gradient-text" align="center">
           <strong>Hear Your Vision</strong>
         </h1>
-        <img src="./../../assets/smartglass.svg" class="card-img image" />
+        <img src="./../../assets/smartglass.png" class="card-img image" />
         <div class="card-text pt-4" align="center">
           <h5><strong>Tech Stack</strong></h5>
           <span

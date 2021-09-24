@@ -21,10 +21,10 @@
     </div>
     <div class="row">
       <div class="col-25">
-        <label for="subject">Message</label>
+        <label for="message">Message</label>
       </div>
       <div class="col-75">
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+        <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
       </div>
     </div>
     <div class="row">

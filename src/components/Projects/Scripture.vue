@@ -2,7 +2,7 @@
   <div class="card">
     <div class="card-body">
       <h1 class="card-title gradient-text" align="center"><strong>Scripture</strong></h1>
-      <img src="./../../assets/Scripture.svg" class="card-img" />
+      <img src="./../../assets/Scripture.png" class="card-img" />
       <div class="card-text pt-4" align="center">
           <h5><strong>Tech Stack</strong></h5>
         <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="label"/></span>
