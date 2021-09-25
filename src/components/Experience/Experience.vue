@@ -14,7 +14,7 @@
       <vs-button
        default
         size="large"
-        href=""
+        href="https://www.linkedin.com/company/tikaj/mycompany/"
         danger
       >
         <strong>Tikaj LinkedIn</strong>
