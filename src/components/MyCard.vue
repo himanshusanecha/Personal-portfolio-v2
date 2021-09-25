@@ -2,7 +2,7 @@
   <div class="mycard">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Hello! Myself Himanshu Sanecha</h5>
+        <h5 class="card-title">About</h5>
         <p class="card-text">
           🙋 Hello myself Himanshu Sanecha.<br />
           🏠 Currently pursuing my undergraduate in IIIT Vadodara.<br />

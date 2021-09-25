@@ -1,5 +1,5 @@
 <template>
-<div class="nav-bar mt-3">
+<div class="nav-bar mt-5">
       <span class="mx-auto" >
       <ul class="nav justify-content-center">
         <li class="nav-item fontmax" @click="ChangeRoute('#About')" :class="{active: value=='#About'}"><vs-button

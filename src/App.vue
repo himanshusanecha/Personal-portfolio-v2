@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Loading v-if="loading" />
-    <div v-else>
+    <div v-else class="mt-3">
       <Page />
       <particles-bg type="circle" :num="5" :bg="true" />
     </div>
@@ -35,6 +35,20 @@ export default {
 #app {
   font-family: "Roboto Slab", serif;
   font-size: 25px;
+}
+@media only screen and (max-width: 600px) {
+  #app {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-top: 0.5%;
+  }
+}
+@media only screen and (min-width: 600px) {
+  #app {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-top: 0.5%;
+  }
 }
 
 </style>

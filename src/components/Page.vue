@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="mt-5">
     <Navbar />
     <div class="container" data-aos="fade-up" data-aos-duration="1000" id="About">
     <div class="row justify-content-center">
