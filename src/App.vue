@@ -13,7 +13,7 @@ import { ParticlesBg } from "particles-bg-vue";
 import Loading from "./components/Loading.vue";
 import Page from "./components/Page.vue";
 export default {
-  name: "Portfolio",
+  name: "Himanshu Sanecha",
   data: function () {
     return {
       loading: true,
