@@ -12,6 +12,7 @@
 import { ParticlesBg } from "particles-bg-vue";
 import Loading from "./components/Loading.vue";
 import Page from "./components/Page.vue";
+//comment
 export default {
   name: "Himanshu Sanecha",
   data: function () {
